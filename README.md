@@ -1,4 +1,4 @@
-# Ex. No - 4 Design & simulate an environment for pick & place operations with Industrial Robot using Robo DK software
+# Ex. No - 2 Design & simulate an environment for pick & place operations with Industrial Robot using Robo DK software
 ## AIM: 
 To Design & simulate an environment for pick & place operations with Industrial Robot using Robo DK software
 ### COMPONENTS REQUIRED:
@@ -49,8 +49,8 @@ Rename the first target as Home by pressing F2. Alternatively, select ToolsRenam
 	 
 ### PROGRAM 
 ```
-Name: G Dario
-Register Number:212222230027
+Name: MOHAMMED ABBAS A
+Register Number:212222080034
 ```
 ```
 import sys
